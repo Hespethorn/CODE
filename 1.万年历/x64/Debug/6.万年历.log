@@ -1,0 +1,3 @@
+﻿  C语言基础模板.c
+D:\王道\Code\Day 8\6.万年历\C语言基础模板.c(46,5): warning C4098: “calendar_month”:“void”函数返回值
+  6.万年历.vcxproj -> D:\王道\Code\Day 8\x64\Debug\6.万年历.exe
