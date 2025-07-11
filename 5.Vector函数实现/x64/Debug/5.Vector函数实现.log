@@ -1,8 +1,0 @@
-﻿  C语言基础模板.c
-  vector.c
-D:\王道\Code\GitHub 代码\5.Vector函数实现\vector.c(13,3): warning C4098: “vector_resize”:“void”函数返回值
-D:\王道\Code\GitHub 代码\5.Vector函数实现\vector.c(54,2): warning C4098: “vector_push_back”:“void”函数返回值
-D:\王道\Code\GitHub 代码\5.Vector函数实现\vector.c(69,2): warning C4098: “vector_push_front”:“void”函数返回值
-D:\王道\Code\GitHub 代码\5.Vector函数实现\vector.c(85,2): warning C4098: “vector_insert”:“void”函数返回值
-  正在生成代码...
-  5.Vector函数实现.vcxproj -> D:\王道\Code\GitHub 代码\x64\Debug\5.Vector函数实现.exe
