@@ -44,7 +44,7 @@ int main(int argc, char *argv[]){
     PthreadInit(pidnum, pid, res);
 
     while(1){
-        int readynum = epoll_wait(epfd, readyset, 2, -1);
+        int readynum = epoll_wait(epfd, readyset, 1024, -1);
         for(int i =0; i < readynum; ++i){
             //只存在收发消息两种情况
             InitMsg(msg);

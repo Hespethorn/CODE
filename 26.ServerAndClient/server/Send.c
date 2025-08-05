@@ -35,6 +35,7 @@ int SendFile(const int netfd, const char* pathname){
     }
     printf("SendFile finished\n");
     free(buf);
+	free(msg);
     close(fd);
     return 1;
 }
